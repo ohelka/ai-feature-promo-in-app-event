@@ -77,8 +77,6 @@ Feature Adoption
 
 `video/home-scanner-in-app-event.mp4`
 
-![Demo](images/home-scanner-demo.gif)
-
 ---
 
 ## Results
