@@ -75,7 +75,7 @@ Feature Adoption
 
 ## 🎥 Final Promotional Video
 
-▶️ **[Watch the full promotional video](video/home-scanner-in-app-event.mp4)**
+➡️ **[Watch the video](https://raw.githubusercontent.com/ohelka/ai-feature-promo-in-app-event/main/video/home-scanner-in-app-event.mp4)**
 
 ---
 
