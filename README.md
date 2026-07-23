@@ -2,6 +2,8 @@
 
 > End-to-end production of an App Store In-App Event campaign for the Home Scanner feature using AI-assisted video generation, reducing creative production time from **~1 week to ~4 hours** while increasing daily feature usage by **15%**.
 
+`cover.png`
+
 ---
 
 ## Overview
@@ -73,7 +75,7 @@ Feature Adoption
 
 🎥 **Final promotional video**
 
-`video/home-scanner-in-app-event.mp4`
+`home-scanner-in-app-event.mp4`
 
 ---
 
