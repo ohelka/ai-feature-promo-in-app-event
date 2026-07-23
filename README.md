@@ -75,7 +75,7 @@ Feature Adoption
 
 🎥 **Final promotional video**
 
-`video/home-scanner-in-app-event.mp4`
+[![Watch the video](images/cover.png)](video/home-scanner-in-app-event.mp4)
 
 ---
 
